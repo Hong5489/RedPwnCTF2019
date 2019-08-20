@@ -18,17 +18,17 @@ plaintext = 'hello'
 
 1st time
 hello -> md5 -> 5D41402ABC4B2A76B9719D911017C592 
-						|
+                        |
 2nd time                v
 5D41402ABC4B2A76B9719D911017C592 -> md5 -> F872A18EB88181EB00816510E762FEE6
-						|
-						v
+                        |
+                        v
 3rd time
 ...
 ...
 ...
-						|
-						v
+                        |
+                        v
 10th time
 Result: 2E03744900CDEFC1B3092BF4FCC954C0
 ```
